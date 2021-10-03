@@ -1,6 +1,6 @@
 # SupervisedLearning_CarPricePredictions
 
-Background & Context
+## Background & Context
 
 There is a huge demand for used cars in the Indian Market today. As sales of new cars have slowed down in the recent past, the pre-owned car market has continued to grow over the past years and is larger than the new car market now. Cars4U is a budding tech start-up that aims to find footholes in this market.
 
@@ -8,7 +8,7 @@ In 2018-19, while new car sales were recorded at 3.6 million units, around 4 mil
 
 As a senior data scientist at Cars4U, you have to come up with a pricing model that can effectively predict the price of used cars and can help the business in devising profitable strategies using differential pricing. For example, if the business knows the market price, it will never sell anything below it. 
 
-Objective
+## Objective
 
 Explore and visualize the dataset.
 Build a linear regression model to predict the prices of used cars.
