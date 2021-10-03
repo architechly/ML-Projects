@@ -15,7 +15,7 @@ Build a linear regression model to predict the prices of used cars.
 Generate a set of insights and recommendations that will help the business.
 Data Dictionary 
 
-S.No. : Serial Number
+# S.No. : Serial Number
 Name : Name of the car which includes Brand name and Model name
 Location : The location in which the car is being sold or is available for purchase Cities
 Year : Manufacturing year of the car
