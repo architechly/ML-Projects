@@ -1,4 +1,6 @@
-# SupervisedLearning_CarPricePredictions
+# SupervisedLearning_Classification Model
+
+##Logistic Regression & Decision Tree Models
 
 ### Description Background and Context
 
